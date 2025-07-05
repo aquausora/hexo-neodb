@@ -1,6 +1,6 @@
 {
   "name": "hexo-neodb",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Generate neodb pages of books, movies, tvs, musics and games for Hexo.",
   "main": "index",
   "scripts": {},
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lesslsmore/hexo-neodb.git"
+    "url": "https://github.com/aquausora/hexo-neodb.git"
   },
   "keywords": [
     "generator",
@@ -26,14 +26,10 @@
     "hexo",
     "neodb"
   ],
-  "author": "lesslsmore",
+  "author": "aquausora",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^1.10.3",
     "eslint-config-hexo": "^1.0.2"
   },
-  "bugs": {
-    "url": "https://github.com/lesslsmore/hexo-neodb/issues"
-  },
-  "homepage": "https://github.com/lesslsmore/hexo-neodb/"
 }
