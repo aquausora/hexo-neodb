@@ -35,6 +35,10 @@ neodb:
   item_per_page: 10
   meta_max_line: 4
   customize_layout: page
+  proxy: #不使用代理直接删除配置项即可
+    protocol: http
+    host: 127.0.0.1
+    port: 7897
   book:
     path: books/index.html
     title: 'This is my book title'
