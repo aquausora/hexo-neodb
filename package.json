@@ -1,6 +1,6 @@
 {
   "name": "hexo-neodb-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate neodb pages of books, movies, tvs, musics and games for Hexo.",
   "main": "index",
   "scripts": {},
